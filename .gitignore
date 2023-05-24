@@ -1,3 +1,8 @@
 node_modules/
 package-lock.json
 package.json
+cypress/fixtures/
+cypress/fixtures/example.json
+cypress/support/
+cypress/support/commands.js
+cypress/support/e2e.js
